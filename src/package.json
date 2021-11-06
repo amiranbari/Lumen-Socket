@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "laravel-echo": "^1.11.3"
+  }
+}
